@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amri Yahya
-- 👀 I’m interested in Front End Dev, UI/UX Designer And Embedded Engineer
-- 🌱 I’m currently learning Front End Web
+- 👀 I’m interested in Front End Dev and UI/UX Designer
 - 📫 How to reach me in yahya.amry@student.ub.ac.id
 
 <!---
